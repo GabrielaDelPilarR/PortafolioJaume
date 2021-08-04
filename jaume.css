@@ -1,0 +1,195 @@
+:root{
+  font-size: 18px;
+  --purple1: #310A90;
+}
+
+.main-container {
+  /*border: 1px solid red;*/
+}
+
+.main-proyect {
+   /*border: 1px solid red;*/
+}
+
+body{
+  background:
+  radial-gradient(41.48% 11.48% at 2.38% 8.52%, #747DE9 0%, rgba(255, 255, 255, 0) 100%),
+  linear-gradient(135deg, #72EDF2 0%, #5151E5 100%);
+  font-family: "Poppins", sans-serif;
+  color: var(--purple1);
+}
+
+.navigation{
+  height: 97px;
+  position: relative;
+
+}
+
+.navigation h2{
+  margin-block-start: 29px;
+  padding-inline-start: 128px;
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.navigation nav{
+  position:absolute;
+  margin: 0;
+  top:0;
+  right: 489.5px;
+}
+
+nav a {
+  font-size: 14px;
+  margin-right: 40px;
+  text-decoration: none;
+  font-weight: 700;
+  color: #FFFF;
+}
+
+.navigation nav a:hover{
+color: var(--purple1);
+}
+
+.form{
+  margin-inline-end: 128px;
+  position: absolute;
+  right:0;
+  top:0;
+}
+
+.form input{
+  width: 153px;
+  height: 49px;
+  font-size: 0.77rem;
+  font-weight: 700;
+  border: 0;
+  background-color: var(--purple1);
+  color: #FFFF;
+}
+
+.jaume{
+  width: 543px;
+  height: 263px;
+  margin-inline-start: 128px;
+}
+.jaume h3{
+ font-size: 1.34rem;
+ font-weight: 700;
+ margin-block: 0;
+}
+.jaume h1{
+  font-size: 3.28rem;
+  font-weight: 700;
+  margin-block-start: 0;
+  margin-block-end: 0.88rem;
+}
+.jaume p{
+  font-size: 0.88rem;
+  font-weight: 400;
+  line-height: 25.89px;
+}
+
+.jaume img{
+  margin-right: 16px;
+}
+
+.hola{
+  position: relative;
+  height: 618px;
+}
+
+.figure{
+  position: absolute;
+  top:0;
+  right: 0;
+  width: 500px;
+  height: 504px;
+  margin-inline-end: 7.11rem;
+}
+
+.content{
+  width: 900px;
+  height: 278px;
+  margin-inline: 233px;
+  margin-block: 180px;
+}
+.content h3{
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 300;
+  font-size: 1.88rem;
+  text-align: center;
+  line-height: 55.01px;
+  margin: 0;
+}
+
+.content p{
+  font-family: 'Poppins' , sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.content img{
+  display: block;
+  margin:auto;
+}
+
+.leonidas{
+  height: 392px;
+  margin-inline-start: 7.11rem;
+  position: relative;
+  margin-block: 180px;
+}
+
+.esteban{
+  width: 24rem ;
+
+}
+
+.esteban p{
+  font-size: 16px;
+}
+.leonidas a{
+font-weight: 700;
+font-size: 1.88rem;
+color: #FFFF;
+text-decoration: none;
+background-color: var(--purple1);
+box-shadow: -4px 4px 0px #FFFFFF;
+padding-block: 4px;
+padding-inline: 8px;
+margin-bottom: 0.88rem;
+}
+
+.leonidas img{
+  width: 652px;
+  height: 392px;
+  position: absolute;
+  right: 0;
+  top:0;
+  margin-inline-start: 30px;
+  margin-inline-end: 100px;
+}
+
+.button input{
+  padding-inline: 1.33rem ;
+  padding-block: 0.72rem;
+  margin: 8px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  border-color: var(--purple1);
+  border-radius: 4px;
+
+}
+
+.button input[value="VER PROYECTO"]{
+  background-color: var(--purple1);
+  color: #FFFF;
+  font-size: 14px;
+}
+
+.button input[value="VER CODIGO"]{
+  background-color: transparent;
+  color:var(--purple1)
+}
