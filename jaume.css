@@ -193,3 +193,236 @@ margin-bottom: 0.88rem;
   background-color: transparent;
   color:var(--purple1)
 }
+
+ .blockquote1 blockquote {
+  margin-block: 80px;
+  margin-inline: 117px;
+  padding: 80px;
+  border: 4px solid #FFFF;
+  background-color: rgba(255, 255, 255, 0.2);;
+  border-radius: 24px;
+  line-height: 55px;
+  font-family: 'Oxygen';
+  font-weight: 700;
+  font-size: 34px;
+  text-align: center;
+}
+
+.blockquote1 p{
+  margin: 0;
+}
+
+.blockquote1 img{
+  width: 80px;
+  height: 80px;
+  margin:0;
+}
+
+.blockquote1 h6{
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #747DE9;
+  margin-block-start: 24px;
+  margin-block-end: 0;
+}
+
+.marvol{
+  height: 780px;
+  margin-inline-start: 7.11rem;
+  position: relative;
+
+  padding-block: 80px;
+}
+
+.marvol2{
+  width: 24rem ;
+  position: absolute;
+  right: 0;
+  margin-inline-end: 128px;
+  margin-block: 10rem ;
+
+}
+
+.marvol2 p{
+  font-size: 16px;
+}
+.marvol input[value="MARVOL"]{
+font-weight: 700;
+font-size: 1.88rem;
+color: #FFFF;
+text-decoration: none;
+background-color: var(--purple1);
+box-shadow: -4px 4px 0px #FFFFFF;
+padding-block: 4px;
+padding-inline: 8px;
+margin-bottom: 0.88rem;
+border: 0;
+}
+
+.marvol img{
+  width: 638px;
+  height: 628px;
+  position: absolute;
+  left: 0;
+  top:0;
+  padding-block: 80px;
+}
+
+.button input{
+  padding-inline: 1.33rem ;
+  padding-block: 0.72rem;
+  margin: 8px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  border-color: var(--purple1);
+  border-radius: 4px;
+
+}
+
+.button input[value="VER PROYECTO"]{
+  background-color: var(--purple1);
+  color: #FFFF;
+  font-size: 14px;
+}
+
+.button input[value="VER CODIGO"]{
+  background-color: transparent;
+  color:var(--purple1)
+}
+
+.blockquote2 blockquote {
+  margin-block: 80px;
+  margin-inline: 117px;
+  padding: 80px;
+  border: 4px solid #FFFF;
+  background-color: rgba(255, 255, 255, 0.2);;
+  border-radius: 24px;
+  line-height: 55px;
+  font-family: 'Oxygen';
+  font-weight: 700;
+  font-size: 34px;
+  text-align: center;
+}
+
+.blockquote2 p{
+  margin: 0;
+}
+
+.blockquote2 img{
+  width: 80px;
+  height: 80px;
+  margin:0;
+}
+
+.blockquote2 h6{
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: var(--purple1);
+  opacity: 0.5;
+  margin-block-start: 24px;
+  margin-block-end: 0;
+}
+
+.netnet{
+  height: 392px;
+  margin-inline-start: 7.11rem;
+  position: relative;
+  margin-block: 180px;
+}
+
+.netnet2{
+  position: absolute;
+  width: 449px;
+  height: 205px;
+  margin-block-start: 9rem;
+  margin-inline-end: 0;
+
+
+}
+
+.netnet2 p{
+  font-size: 16px;
+
+}
+
+.netnet input[value="NETNET"]{
+font-weight: 700;
+font-size: 1.88rem;
+color: #FFFF;
+text-decoration: none;
+background-color: var(--purple1);
+box-shadow: -4px 4px 0px #FFFFFF;
+padding-block: 4px;
+padding-inline: 8px;
+margin-bottom: 0.88rem;
+border: 0;
+}
+
+.netnet img{
+  width: 302px;
+  height: 536px;
+  position: absolute;
+  right: 0;
+  top:0;
+  margin-inline-start: 30px;
+  margin-inline-end: 274px;
+}
+
+.button input{
+  padding-inline: 1.33rem ;
+  padding-block: 0.72rem;
+  margin: 8px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  border-color: var(--purple1);
+  border-radius: 4px;
+
+}
+
+.button input[value="VER PROYECTO"]{
+  background-color: var(--purple1);
+  color: #FFFF;
+  font-size: 14px;
+}
+
+.button input[value="VER CODIGO"]{
+  background-color: transparent;
+  color:var(--purple1)
+}
+
+.blockquote3 blockquote {
+  margin-block: 160px;
+  margin-inline: 117px;
+  padding: 80px;
+  border: 4px solid #FFFF;
+  background-color: rgba(255, 255, 255, 0.2);;
+  border-radius: 24px;
+  line-height: 55px;
+  font-family: 'Oxygen';
+  font-weight: 700;
+  font-size: 34px;
+  text-align: center;
+
+}
+
+.blockquote3 p{
+  margin-block-start: 0px;
+}
+
+.blockquote3 img{
+  width: 80px;
+  height: 80px;
+  margin:0;
+}
+
+.blockquote3 h6{
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: var(--purple1);
+  opacity: 0.5;
+  margin-block-start: 24px;
+  margin-block-end: 0;
+}
